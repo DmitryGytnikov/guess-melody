@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
-* Студент: [Денис Попов](https://up.htmlacademy.ru/react/1/user/505149).
-* Наставник: [Александр Сушко](https://htmlacademy.ru/profile/sashasushko).
+* Студент: [Дмитрий Гутников].
+* Наставник: [].
 
 ---
 
